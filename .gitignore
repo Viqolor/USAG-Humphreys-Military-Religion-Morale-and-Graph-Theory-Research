@@ -5,8 +5,10 @@ __pycache__/
 venv/
 .env
 
-# Project specific: Ignore the 100k+ row raw data files 
-raw_dist_*.csv
+# Project specific: 
+edge_weights*.csv
+influence_score.csv
+raw_dist*.csv
 
 # C extensions
 *.so
