@@ -1,7 +1,12 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
-*.py[codz]
+*.py[cod]
 *$py.class
+venv/
+.env
+
+# Project specific: Ignore the 100k+ row raw data files 
+raw_dist_*.csv
 
 # C extensions
 *.so
