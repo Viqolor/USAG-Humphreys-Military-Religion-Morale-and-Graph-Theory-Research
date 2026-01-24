@@ -31,6 +31,8 @@ $\alpha/\beta$: Constants for spatial decay and quality weighting.
 
 $I$: Facility intensity (weekly usage in person-hours).
 
+$B$: Standard Barrack Unit
+
 ============================================================================================
 
 **Installation & Usage**
