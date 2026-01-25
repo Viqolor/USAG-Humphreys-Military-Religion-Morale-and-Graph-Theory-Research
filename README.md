@@ -1,5 +1,7 @@
 # USAG-Humphreys-Military-Religion-Morale-and-Graph-Theory-Research
 
+*Disclaimer: The views and opinions expressed under this research are strictly of our own and do not necessarily represent the official position or policy of the 2nd Infantry Division, the Eighth Army, USFK, and ROK Ministry of National Defense.*
+
 
 **Project Overview**
 
