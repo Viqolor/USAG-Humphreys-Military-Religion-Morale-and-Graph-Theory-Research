@@ -15,7 +15,7 @@ Experiment 3 (Swaps): Iterative testing of switching religious facilities to be 
 
 Experiment 4 (Additions): Strategic placement of a new high-intensity religious facilit.
 
-============================================================================================
+===========================================================================
 
 **Mathematical Framework**
 
@@ -33,7 +33,7 @@ $I$: Facility intensity (weekly usage in person-hours).
 
 $B$: Standard Barrack Unit
 
-============================================================================================
+===========================================================================
 
 **Installation & Usage**
 
@@ -51,7 +51,7 @@ Clone the repository: clone https://github.com/Viqolor/USAG-Humphreys-Military-R
 
 Execute the control panel to run all experiments and significance tests: python control_panel.py
 
-============================================================================================
+===========================================================================
 
 **File Structure**
 
@@ -63,7 +63,7 @@ master_results.csv: Summary of means, P-values, Cohen's $d$, and 95% Confidence 
 
 distances.csv / facilities.csv / blocks.csv: Input datasets defining spatial relationships and facility/unit attributes.
 
-============================================================================================
+===========================================================================
 
 **Significance Testing**
 
@@ -75,13 +75,13 @@ Cohen's $d$: To quantify effect size (Negligible, Small, Medium, Large).
 
 95% Confidence Intervals: For the mean difference across 10,000 simulations.
 
-============================================================================================
+===========================================================================
 
 **Data Visualization**
 
 The raw simulation data is exported into individual CSV files (e.g., raw_dist_Baseline.csv) designed for box plot generation. These files are sampled at $n=2000$ per node to ensure high-performance rendering in tools like RAWGraphs or Seaborn.
 
-============================================================================================
+===========================================================================
 
 **How to Cite**
 
